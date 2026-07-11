@@ -1,0 +1,8 @@
+# Pi session artifacts
+sessions/
+
+# Dependencies
+node_modules/
+
+# Pi local config (if a project is ever run from this dir)
+.pi/

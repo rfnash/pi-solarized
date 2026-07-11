@@ -1,0 +1,10 @@
+{
+  "name": "pi-solarized",
+  "version": "1.0.0",
+  "description": "Solarized Light and Dark themes for the pi coding agent",
+  "keywords": ["pi-package", "pi-theme", "solarized", "solarized-light", "solarized-dark"],
+  "license": "MIT",
+  "pi": {
+    "themes": ["./themes"]
+  }
+}
